@@ -1,0 +1,240 @@
+CRITICAL - 2023-04-25 08:40:32 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:59:23 --> Undefined array key "thumbup"
+in APPPATH/Models/Post_model.php on line 39.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:59:44 --> Undefined array key "thumbup"
+in APPPATH/Models/Post_model.php on line 39.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:59:46 --> Undefined array key "thumbup"
+in APPPATH/Models/Post_model.php on line 39.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:00:40 --> Undefined array key "thumbup"
+in APPPATH/Models/Post_model.php on line 39.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:00:46 --> Undefined array key "thumbup"
+in APPPATH/Models/Post_model.php on line 39.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:02:54 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getRow()
+in APPPATH/Models/Post_model.php on line 38.
+ 1 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:03:12 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH/Models/Post_model.php on line 39.
+ 1 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:03:29 --> Undefined array key "thumbup"
+in APPPATH/Models/Post_model.php on line 39.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Postdetail.php(54): App\Models\Post->like()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:07:25 --> Undefined array key "hidden_pid"
+in APPPATH/Controllers/Postdetail.php on line 53.
+ 1 APPPATH/Controllers/Postdetail.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:08:20 --> Undefined array key "hidden_pid"
+in APPPATH/Controllers/Postdetail.php on line 53.
+ 1 APPPATH/Controllers/Postdetail.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:08:39 --> Undefined array key "hidden_pid"
+in APPPATH/Controllers/Postdetail.php on line 53.
+ 1 APPPATH/Controllers/Postdetail.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:09:58 --> Undefined array key "hidden_pid"
+in APPPATH/Controllers/Postdetail.php on line 53.
+ 1 APPPATH/Controllers/Postdetail.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:10:11 --> Undefined array key "hidden_pid"
+in APPPATH/Controllers/Postdetail.php on line 53.
+ 1 APPPATH/Controllers/Postdetail.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:10:13 --> Undefined array key "hidden_pid"
+in APPPATH/Controllers/Postdetail.php on line 53.
+ 1 APPPATH/Controllers/Postdetail.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:10:30 --> Undefined array key "hidden_pid"
+in APPPATH/Controllers/Postdetail.php on line 53.
+ 1 APPPATH/Controllers/Postdetail.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->like()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:15:24 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:28:12 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:28:50 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:29:54 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:30:01 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:32:00 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(27): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:32:07 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Authorize.php(27): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Authorize->verifyEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:38:50 --> Call to undefined method App\Models\Post::showdetail
+in SYSTEMPATH/Model.php on line 842.
+ 1 APPPATH/Controllers/Postdetail.php(22): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->detail()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:39:30 --> view(): Argument #2 ($data) must be of type array, null given, called in /var/www/htdocs/demo/app/Controllers/Postdetail.php on line 23
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/Postdetail.php(23): view()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->detail()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:39:50 --> Attempt to read property "getResultArray" on null
+in APPPATH/Controllers/Postdetail.php on line 22.
+ 1 APPPATH/Controllers/Postdetail.php(22): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->detail()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:40:05 --> Attempt to read property "getResult" on null
+in APPPATH/Controllers/Postdetail.php on line 22.
+ 1 APPPATH/Controllers/Postdetail.php(22): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->detail()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:40:13 --> Call to a member function get() on null
+in APPPATH/Controllers/Postdetail.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->detail()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 12:23:43 --> Too few arguments to function App\Models\Comment::showfav(), 1 passed in /var/www/htdocs/demo/app/Controllers/Userinfo.php on line 39 and exactly 2 expected
+in APPPATH/Models/Favourite_model.php on line 40.
+ 1 APPPATH/Controllers/Userinfo.php(39): App\Models\Comment->showfav()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Userinfo->showfavlist()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

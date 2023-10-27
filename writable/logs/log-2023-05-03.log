@@ -1,0 +1,130 @@
+ERROR - 2023-05-03 05:56:06 --> mysqli_sql_exception: Column 'name' cannot be null in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Post.php(50): App\Models\Post->post()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-03 05:56:06 --> Column 'name' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Post.php(50): App\Models\Post->post()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:05:42 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH/Filters/Filters.php on line 166.
+ 1 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 2 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 3 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:07:59 --> Call to a member function isLoggedIn() on null
+in APPPATH/Filters/AuthFilter.php on line 15.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 2 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:35:40 --> CodeIgniter\HTTP\RedirectResponse::to(): Argument #1 ($uri) must be of type string, null given, called in /var/www/htdocs/demo/app/Filters/AuthFilter.php on line 16
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 32.
+ 1 APPPATH/Filters/AuthFilter.php(16): CodeIgniter\HTTP\RedirectResponse->to()
+ 2 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 3 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:44:06 --> Call to a member function isLoggedIn() on null
+in APPPATH/Filters/AuthFilter.php on line 15.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 2 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:44:09 --> Call to a member function isLoggedIn() on null
+in APPPATH/Filters/AuthFilter.php on line 15.
+ 1 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 2 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:45:20 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Filters/AuthFilter.php(15): view()
+ 6 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 7 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:46:16 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Filters/AuthFilter.php(15): view()
+ 6 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 7 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:46:17 --> Undefined variable $error
+in APPPATH/Views/login.php on line 12.
+ 1 APPPATH/Views/login.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Filters/AuthFilter.php(15): view()
+ 6 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 7 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:47:46 --> The route for "/login" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 60.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(880): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Filters/AuthFilter.php(15): redirect()
+ 4 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:47:46 --> The route for "/login" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 60.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(880): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Filters/AuthFilter.php(15): redirect()
+ 4 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:47:53 --> The route for "/login" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 60.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(880): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Filters/AuthFilter.php(15): redirect()
+ 4 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:48:04 --> The route for "/demo/login" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 60.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(880): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Filters/AuthFilter.php(15): redirect()
+ 4 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-03 06:48:34 --> The route for "/login" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 60.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(880): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Filters/AuthFilter.php(15): redirect()
+ 4 SYSTEMPATH/Filters/Filters.php(173): App\Filters\AuthFilter->before()
+ 5 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\Filters\Filters->run()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

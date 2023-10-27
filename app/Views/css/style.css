@@ -1,0 +1,45 @@
+:root {
+    --gap: 20px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 50px auto;
+  }
+  
+  body {
+    background-color: #efefef;
+  }
+  
+  
+  .box {
+    background-color: #ddd;
+    padding: var(--gap);
+    display: flex;
+    gap: var(--gap);
+    min-height: 400px;
+    flex-direction: row;
+  }
+  
+  .box.align_right {
+    flex-direction: row-reverse;
+  }
+  
+  .box-sidebar,
+  .box-contents {
+    background-color: rgba(0,0,0,0.1);
+    padding: var(--gap);
+  }
+  
+  .box-sidebar {
+    width: 140px;
+    flex-shrink: 0;
+  }
+  
+  .box-contents {
+    flex-grow: 1;
+    min-width: 0;
+  }
+  
+  
+  

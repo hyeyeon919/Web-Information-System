@@ -1,0 +1,309 @@
+CRITICAL - 2023-05-15 12:27:17 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:27:17 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:27:17 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:27:20 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:27:22 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:27:22 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:27:22 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:27:22 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 39
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(39): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:34:40 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:00 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:02 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:02 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:02 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:02 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:02 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:04 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:35:04 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:43:51 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 12:47:32 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in /var/www/htdocs/demo/app/Models/Post_model.php on line 38
+in SYSTEMPATH/Database/BaseBuilder.php on line 984.
+ 1 APPPATH/Models/Post_model.php(38): CodeIgniter\Database\BaseBuilder->like()
+ 2 APPPATH/Controllers/Post.php(22): App\Models\Post->search()
+ 3 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->searchItem()
+ 4 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-15 13:25:56 --> mysqli_sql_exception: Duplicate entry '646232e4aa5d45.99108524' for key 'Post.PRIMARY' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Post.php(75): App\Models\Post->post()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-15 13:25:56 --> Duplicate entry '646232e4aa5d45.99108524' for key 'Post.PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Post.php(75): App\Models\Post->post()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-15 13:26:48 --> mysqli_sql_exception: Duplicate entry '64623318b728b5.86659125' for key 'Post.PRIMARY' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Post.php(75): App\Models\Post->post()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-15 13:26:48 --> Duplicate entry '64623318b728b5.86659125' for key 'Post.PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Post.php(75): App\Models\Post->post()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-15 13:27:10 --> mysqli_sql_exception: Duplicate entry '6462332e455be6.73210642' for key 'Post.PRIMARY' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Post.php(75): App\Models\Post->post()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-15 13:27:10 --> Duplicate entry '6462332e455be6.73210642' for key 'Post.PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Post.php(75): App\Models\Post->post()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 13:28:54 --> Trying to access array offset on value of type null
+in APPPATH/Views/postdetail.php on line 193.
+ 1 APPPATH/Views/postdetail.php(193): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/postdetail.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Postdetail.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->detail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-15 13:29:24 --> mysqli_sql_exception: Duplicate entry '646233b4702ea8.47865369' for key 'Post.PRIMARY' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Post.php(75): App\Models\Post->post()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-15 13:29:24 --> Duplicate entry '646233b4702ea8.47865369' for key 'Post.PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Post.php(75): App\Models\Post->post()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-15 13:31:15 --> mysqli_sql_exception: Duplicate entry '64623423729923.61514447' for key 'Post.PRIMARY' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Post.php(76): App\Models\Post->post()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-15 13:31:15 --> Duplicate entry '64623423729923.61514447' for key 'Post.PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Post.php(76): App\Models\Post->post()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-15 13:46:21 --> mysqli_sql_exception: Duplicate entry '646237ad16ecb7.92145359' for key 'Post.PRIMARY' in /var/www/htdocs/demo/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/demo/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/demo/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/demo/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/demo/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/demo/app/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/demo/app/Controllers/Post.php(72): App\Models\Post->post()
+#6 /var/www/htdocs/demo/system/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+#7 /var/www/htdocs/demo/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/demo/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/demo/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-15 13:46:21 --> Duplicate entry '646237ad16ecb7.92145359' for key 'Post.PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Post_model.php(29): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Post.php(72): App\Models\Post->post()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 13:47:32 --> A non-numeric value encountered
+in APPPATH/Controllers/Post.php on line 68.
+ 1 APPPATH/Controllers/Post.php(68): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 13:54:52 --> Undefined variable $model
+in APPPATH/Controllers/Post.php on line 76.
+ 1 APPPATH/Controllers/Post.php(76): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Post->post_newThread()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

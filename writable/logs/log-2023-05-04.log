@@ -1,0 +1,11 @@
+CRITICAL - 2023-05-04 10:17:36 --> Attempt to read property "username" on array
+in APPPATH/Views/postdetail.php on line 265.
+ 1 APPPATH/Views/postdetail.php(265): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/postdetail.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Postdetail.php(24): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Postdetail->detail()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
